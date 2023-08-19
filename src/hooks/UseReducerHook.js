@@ -27,8 +27,15 @@ export const UseReducerHook = () => {
 
   return (
     <Fragment>
-      <div>
-        <p>UseReducer Hook and it's Function</p>
+      <div
+        style={{
+          border: "none",
+          backgroundColor: "skyblue",
+          padding: "5px",
+          margin: "5px",
+        }}
+      >
+        <h5>UseReducer Hook and it's Function</h5>
         <h1>{state.uiValue}</h1>
         <button
           onClick={() => {

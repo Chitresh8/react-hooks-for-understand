@@ -16,8 +16,15 @@ export const UseStateHook = () => {
   };
   return (
     <Fragment>
-      <div>
-        <p>UseState Hook and it's Function</p>
+      <div
+        style={{
+          border: "none",
+          backgroundColor: "skyblue",
+          padding: "5px",
+          margin: "5px",
+        }}
+      >
+        <h5>UseState Hook and it's Function</h5>
         <h1>{firstValue}</h1>
         <button onClick={incrementClickHandler}>Increment</button>
         <button onClick={decrementClickHandler}>Decrement</button>
