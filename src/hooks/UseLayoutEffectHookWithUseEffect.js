@@ -19,7 +19,7 @@ export const UseLayoutEffectHookWithUseEffect = () => {
       <div
         style={{
           border: "none",
-          backgroundColor: "skyblue",
+          backgroundColor: "#E706F6",
           padding: "5px",
           margin: "5px",
         }}

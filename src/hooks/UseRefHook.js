@@ -13,7 +13,7 @@ export const UseRefHook = () => {
       <div
         style={{
           border: "none",
-          backgroundColor: "skyblue",
+          backgroundColor: "#FCDCDC",
           padding: "5px",
           margin: "5px",
         }}

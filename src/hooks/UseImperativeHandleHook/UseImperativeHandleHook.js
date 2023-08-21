@@ -8,7 +8,7 @@ export const UseImperativeHandleHook = () => {
       <div
         style={{
           border: "none",
-          backgroundColor: "skyblue",
+          backgroundColor: "#F4ACB4",
           padding: "5px",
           margin: "5px",
         }}

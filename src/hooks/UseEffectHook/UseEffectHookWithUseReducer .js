@@ -38,7 +38,7 @@ export const UseEffectHookWithUseReducer = () => {
       <div
         style={{
           border: "none",
-          backgroundColor: "skyblue",
+          backgroundColor: "#DCC3FC",
           padding: "5px",
           margin: "5px",
         }}

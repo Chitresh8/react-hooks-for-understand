@@ -30,7 +30,7 @@ export const UseReducerHook = () => {
       <div
         style={{
           border: "none",
-          backgroundColor: "skyblue",
+          backgroundColor: "#DDA02A",
           padding: "5px",
           margin: "5px",
         }}
