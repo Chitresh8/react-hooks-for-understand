@@ -37,6 +37,10 @@ export const UseStateHook = () => {
           />
           {inputValue}
         </div>
+        <h5>
+          UseState is a hook which is used to manage the state or update the
+          state
+        </h5>
       </div>
     </Fragment>
   );

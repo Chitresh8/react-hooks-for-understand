@@ -1,4 +1,5 @@
 import React, { Fragment, useRef } from "react";
+import { AnotherExofUseRefHook } from "./AnotherExofUseRefHook";
 
 export const UseRefHook = () => {
   const inputRef = useRef(null);
@@ -25,6 +26,9 @@ export const UseRefHook = () => {
           ref={inputRef}
         />
         <button onClick={changeNameClickHandler}>Change Name</button>
+        <div>
+          <AnotherExofUseRefHook />
+        </div>
       </div>
     </Fragment>
   );
