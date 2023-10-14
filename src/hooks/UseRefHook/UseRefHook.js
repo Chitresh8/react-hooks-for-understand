@@ -20,6 +20,7 @@ export const UseRefHook = () => {
         }}
       >
         <h5>UseRef Hook and it's Function</h5>
+        <h5>It is an uncontrolled component</h5>
         <input
           type="text"
           placeholder="Ex..."
